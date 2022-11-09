@@ -1,0 +1,12 @@
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/Zap.Shared.csproj.AssemblyReference.cache
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/Zap.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/Zap.Shared.AssemblyInfoInputs.cache
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/Zap.Shared.AssemblyInfo.cs
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/Zap.Shared.csproj.CoreCompileInputs.cache
+/Users/nickzolondek/Projects/Zap/Zap.Shared/bin/Debug/net6.0/Zap.Shared.deps.json
+/Users/nickzolondek/Projects/Zap/Zap.Shared/bin/Debug/net6.0/Zap.Shared.dll
+/Users/nickzolondek/Projects/Zap/Zap.Shared/bin/Debug/net6.0/Zap.Shared.pdb
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/Zap.Shared.dll
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/refint/Zap.Shared.dll
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/Zap.Shared.pdb
+/Users/nickzolondek/Projects/Zap/Zap.Shared/obj/Debug/net6.0/ref/Zap.Shared.dll
